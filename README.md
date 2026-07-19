@@ -4,8 +4,6 @@ An autonomous, production-grade data pipeline built entirely on **Snowflake** th
 
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-29B5E8?style=flat&logo=snowflake)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 ---
 
 ## Architecture
@@ -229,14 +227,4 @@ self-healing-data-pipeline/
 
 ---
 
-## License
 
-MIT License - feel free to use, modify, and distribute.
-
----
-
-## Author
-
-Built by **NITHYASRI** | Powered by Snowflake
-
-*This project demonstrates production-grade DataOps automation using Snowflake-native features (Streams, Tasks, Stored Procedures) with zero external dependencies.*
