@@ -1,6 +1,10 @@
-## Self-Healing Data Pipeline
+## Snowflake-Native Autonomous Data Reliability Platform - A Self-Healing Data Pipeline
 
 An autonomous, production-grade data pipeline built entirely on **Snowflake** that monitors data quality, detects anomalies, classifies root causes, and applies automated remediation — without human intervention.
+
+"Have I invented a new technology?"
+
+"No. Data observability and self-healing pipelines already exist in industry. My goal was to understand how those systems work by designing and implementing a Snowflake-native version from scratch."
 
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-29B5E8?style=flat&logo=snowflake)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
