@@ -6,9 +6,23 @@ An autonomous, production-grade data pipeline built entirely on **Snowflake** th
 
 "No. Data observability and self-healing pipelines already exist in industry. My goal was to understand how those systems work by designing and implementing a Snowflake-native version from scratch."
 
+So I built a Snowflake-native autonomous data reliability platform that monitors pipeline health, detects anomalies, estimates downstream impact, automatically remediates safe failures, and learns from remediation history.
+
+
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-29B5E8?style=flat&logo=snowflake)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
 ---
+##Features
+✅ Self-Healing Data Pipeline
+✅ Data Quality Rule Engine
+✅ Dependency Graph
+✅ Blast Radius Analysis
+✅ Pipeline Health Score
+✅ Incident Timeline
+✅ Root Cause Engine
+✅ Self-Learning Confidence
+✅ Business Impact Analysis
+✅ Audit Dashboard
 
 ## Architecture
 
