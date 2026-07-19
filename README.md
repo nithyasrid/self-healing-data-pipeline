@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 03_16_19 PM" src="https://github.com/user-attachments/assets/491d7e4f-df73-4912-aa24-7941b912302d" /># Self-Healing Data Pipeline
+## Self-Healing Data Pipeline
 
 An autonomous, production-grade data pipeline built entirely on **Snowflake** that monitors data quality, detects anomalies, classifies root causes, and applies automated remediation — without human intervention.
 
@@ -35,10 +35,7 @@ An autonomous, production-grade data pipeline built entirely on **Snowflake** th
 │                                                                          │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
-<img width="997" height="356" alt="image" src="https://github.com/user-attachments/assets/9f5fd123-4a5c-4349-8fc0-086060c3f501" />
-
-![Uploading ChatGPT Image Jul 19, 2026, 03_16_19 PM.png…]()
-
+<img width="1536" height="1024" alt="ChatGPT Image Jul 19, 2026, 03_16_19 PM" src="https://github.com/user-attachments/assets/491d7e4f-df73-4912-aa24-7941b912302d" />
 ---
 
 ## Features
