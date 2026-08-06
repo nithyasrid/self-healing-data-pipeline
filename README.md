@@ -8,8 +8,7 @@ An autonomous, production-grade data pipeline built entirely on **Snowflake** th
 
 So I built a Snowflake-native autonomous data reliability platform that monitors pipeline health, detects anomalies, estimates downstream impact, automatically remediates safe failures, and learns from remediation history.
 
-<img width="950" height="434" alt="image" src="https://github.com/user-attachments/assets/7de04282-5215-4f81-9448-efacdbe33dcf" />
-<img width="950" height="594" alt="image" src="https://github.com/user-attachments/assets/4dd4bcec-6d80-41c3-a6c9-629d4f3eaa0c" />
+
 
 ![Snowflake](https://img.shields.io/badge/Platform-Snowflake-29B5E8?style=flat&logo=snowflake)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
